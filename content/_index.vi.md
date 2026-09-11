@@ -18,9 +18,10 @@ Trong quy trình truyền thống, khi kết nối nhiều MCP server, Agent ph�
 
 1. [Cài đặt Kiro](1-setup/)
 2. [Đăng nhập Kiro IDE](2-signin/)
-3. [Xây dựng ứng dụng với Kiro Powers](3-build-app-with-kiro-powers/)
-4. [Hands-on với Kiro Powers](4-hands-on-with-kiro-powers/)
-5. [Dọn dẹp tài nguyên](5-cleanup/)
+3. [Lý thuyết Powers](3-understand-powers/)
+4. [Hands-on 1: Cài & sử dụng Powers](4-install-use-powers/)
+5. [Hands-on 2: Tạo Custom Power](5-create-custom-power/)
+6. [Dọn dẹp tài nguyên](6-cleanup/)
 
 ### Power là trung tâm mở rộng năng lực
 

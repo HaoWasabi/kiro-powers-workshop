@@ -16,10 +16,11 @@ In a traditional workflow, connecting multiple MCP servers forces the Agent to l
 ### Contents
 
 1. [Install Kiro](1-setup/)
-2. [Log in to Kiro IDE](2-signin/)
-3. [Build an Application with Kiro Powers](3-build-app-with-kiro-powers/)
-4. [Hands-on with Kiro Powers](4-hands-on-with-kiro-powers/)
-5. [Clean up Resources](5-cleanup/)
+2. [Sign in to Kiro IDE](2-signin/)
+3. [Understand Kiro Powers](3-understand-powers/)
+4. [Hands-on 1: Install & Use Existing Powers](4-install-use-powers/)
+5. [Hands-on 2: Create Custom Power](5-create-custom-power/)
+6. [Clean up Resources](6-cleanup/)
 
 ### Powers as the Central Extension Point
 
