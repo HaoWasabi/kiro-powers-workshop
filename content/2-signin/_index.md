@@ -1,28 +1,39 @@
 ---
-title: "Preparation"
+title: "Sign in to Kiro IDE"
 date: "2024-01-01"
-weight: 2
+weight: 1
 chapter: false
 pre: "<strong>2. </strong>"
 ---
 
-#### Overview
+#### Sign in to Kiro IDE
 
-**ℹ️ Information**: In this section, we will prepare the necessary AWS services to deploy the FCJ Management application using Amazon EC2 Auto Scaling and Elastic Load Balancing. This preparation ensures our application will be highly available, fault-tolerant, and capable of handling varying workloads efficiently.
+After downloading and opening **Kiro IDE**, you will have 4 sign-in options:
 
-The architecture we'll implement follows AWS best practices for scalable web applications:
+- Sign in with Google
+- Sign in with Github
+- Sign in with AWS Builder ID
+- Sign in with your organization identity
 
-![Architecture Diagram](/images/2-preparation/diagram0006.png)
+Here I will use the **AWS Builder ID** method to sign in. If you don’t have one, you can create a new **AWS Builder ID** account.
 
-**💡 Pro Tip**: This multi-tier architecture separates the web tier from the database tier, allowing each component to scale independently based on its specific resource requirements.
+![Image](/images/2-signin/1.png?featherlight=false&width=90pc)
 
-#### Workshop Modules
+After clicking on the **AWS Builder ID** sign-in option, a login web page will open. Sign in with your email and password.
 
-1. [Setup Network Infrastructure](2.1-setup-network/)
-2. [Launch EC2 Instance](2.2-launch-ec2-instance/)
-3. [Deploy Database with Amazon RDS](2.3-launch-db-instance/)
-4. [Configure Database Data](2.4-add-data-to-db/)
-5. [Deploy Web Server](2.5-deploy-web-server/)
-6. [Prepare Metrics for Predictive Scaling](2.6-prepare-metrics-for-predictive-scaling/)
+![Image](/images/2-signin/2.png?featherlight=false&width=90pc)
 
-**🔒 Security Note**: Throughout this workshop, we'll implement security best practices including proper network segmentation, secure access controls, and encrypted data transmission to protect our application and its data.
+Select **Allow access** to grant Kiro IDE permission to use this account for sign-in and usage.
+
+![Image](/images/2-signin/3.png?featherlight=false&width=90pc)
+
+Click **Skip All** to skip **Import configuration** and if you need to install any extensions, you can install them later.
+
+![Image](/images/2-signin/4.png?featherlight=false&width=90pc)
+
+> [!NOTE]
+> You can import configuration from other IDEs like VSCode including settings, extensions,…
+
+Now we have successfully installed Kiro IDE. The next step is to install and set up the environment to initialize a project with **Kiro IDE.**
+
+![Image](/images/2-signin/5.png?featherlight=false&width=90pc)
