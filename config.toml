@@ -26,8 +26,6 @@ home = [ "HTML", "RSS", "JSON"]
 [Languages.en]
 title = "Kiro Powers Workshop"
 weight = 1
-  
-[Languages.en.params]
 label = "English"
 
 [[Languages.en.menu.shortcuts]]
@@ -45,8 +43,6 @@ weight = 20
 [Languages.vi]
 title = "Kiro Powers Workshop"
 weight = 2
-  
-[Languages.vi.params]
 label = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
