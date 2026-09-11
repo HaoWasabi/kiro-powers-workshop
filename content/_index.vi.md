@@ -16,8 +16,8 @@ Trong quy trình truyền thống, khi kết nối nhiều MCP server, Agent ph�
 
 ### Nội dung
 
-1. [Cài đặt Kiro](1-introduction/)
-2. [Đăng nhập Kiro IDE](2-preparation/)
+1. [Cài đặt Kiro](1-setup/)
+2. [Đăng nhập Kiro IDE](2-signin/)
 3. [Xây dựng ứng dụng với Kiro Powers](3-build-app-with-kiro-powers/)
 4. [Hands-on với Kiro Powers](4-hands-on-with-kiro-powers/)
 5. [Dọn dẹp tài nguyên](5-cleanup/)

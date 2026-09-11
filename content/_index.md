@@ -15,8 +15,8 @@ In a traditional workflow, connecting multiple MCP servers forces the Agent to l
 
 ### Contents
 
-1. [Install Kiro](1-introduction/)
-2. [Log in to Kiro IDE](2-preparation/)
+1. [Install Kiro](1-setup/)
+2. [Log in to Kiro IDE](2-signin/)
 3. [Build an Application with Kiro Powers](3-build-app-with-kiro-powers/)
 4. [Hands-on with Kiro Powers](4-hands-on-with-kiro-powers/)
 5. [Clean up Resources](5-cleanup/)
