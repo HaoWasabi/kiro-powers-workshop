@@ -31,8 +31,9 @@ Nhấn **Skip All** để bỏ qua **Import configuration** và nếu cần cài
 
 ![Image](/images/2-signin/4.png?featherlight=false&width=90pc)
 
-> [!NOTE]
-> Bạn có thể Import configuration từ các IDE khác như vscode bao gồm các setting, extensions,…
+{{% notice note %}}
+Bạn có thể Import configuration từ các IDE khác như vscode bao gồm các setting, extensions,…
+{{% /notice %}}
 
 Vậy là chúng ta đã cài đặt xong Kiro IDE. Bước tiếp theo là cài đặt và thiết lập môi trường để khởi tạo dự án với **Kiro IDE**
 

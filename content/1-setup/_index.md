@@ -12,7 +12,9 @@ To install Kiro IDE, visit the [Kiro](https://kiro.dev/) homepage or download Ki
 
 ![Image](/images/1-setup/1.png?featherlight=false&width=90pc)
 
-ℹ️ **Note**: Kiro does not currently provide an official installer for Windows devices with ARM CPUs. We will need to wait for a future supported release.
+{{% notice note %}}
+Kiro does not currently provide an official installer for Windows devices with ARM CPUs. We will need to wait for a future supported release.
+{{% /notice %}}
 
 - Select **“I accept the agreement”**, then click **“Next”**.
 

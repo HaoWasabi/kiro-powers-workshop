@@ -31,8 +31,9 @@ Click **Skip All** to skip **Import configuration** and if you need to install a
 
 ![Image](/images/2-signin/4.png?featherlight=false&width=90pc)
 
-> [!NOTE]
-> You can import configuration from other IDEs like VSCode including settings, extensions,…
+{{% notice note %}}
+You can import configuration from other IDEs like VSCode including settings, extensions,…
+{{% /notice %}}
 
 Now we have successfully installed Kiro IDE. The next step is to install and set up the environment to initialize a project with **Kiro IDE.**
 

@@ -12,8 +12,9 @@ pre: "<strong>1. </strong>"
 
 ![Image](/images/1-setup/1.png?featherlight=false&width=90pc)
 
-> [!NOTE]
-> Với máy Windows dùng CPU ARM, hiện chưa có bản cài đặt Kiro chính thức từ nhà sản xuất. Chúng ta sẽ phải chờ bản hỗ trợ sau.
+{{% notice note %}}
+Với máy Windows dùng CPU ARM, hiện chưa có bản cài đặt Kiro chính thức từ nhà sản xuất. Chúng ta sẽ phải chờ bản hỗ trợ sau.
+{{% /notice %}}
 
 - Chọn **“I accept the agreement”** sau đó nhấn **“Next”**
 
